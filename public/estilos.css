@@ -1,0 +1,33 @@
+#contenidoProtegido{
+    background: url(https://i.pinimg.com/originals/ae/a9/f8/aea9f8042389ca1a368143f5917cdfaf.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+#textoxd{
+    color:white;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#btnAcceder{
+    color: tomato;
+    background-color: white;
+    font-weight: bolder;
+}
+#btnAcceder:hover{
+    background-color: grey;
+}
+#barrita{
+    background-color: lightcoral;
+}
+#inputChat{
+    background-color: lightcoral;
+    color: white;
+}
+#botonsito{
+    background-color: rgb(2, 133, 61);
+    color: white;
+}
+#botonsito:hover{
+    background-color:  rgb(5, 192, 89);
+}
